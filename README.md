@@ -1,4 +1,5 @@
 Profitable App Profiles for the App Store and Google Play Markets
+
 This project is to generate foundation for readers understanding the mean of dataset
 1. Open and explore data:
 - Use open source data on Dataquest.
